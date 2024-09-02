@@ -15,7 +15,7 @@ In addition, focusing on basics provides many opportunities for creative problem
 But always have fun!
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/GVt-WMHXwAA9P7j?format=jpg&name=medium" alt="Alt text" width="23%" />
+<img src="https://pbs.twimg.com/media/GVt-WMHXwAA9P7j?format=jpg&name=medium" alt="Kit Baroness. DBA" width="23%" />
   
 Sincerely,  
 **Kit Baroness, DBA**
