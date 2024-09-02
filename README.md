@@ -32,8 +32,8 @@ But always have fun!
 <img src="https://pbs.twimg.com/media/GVt-WMHXwAA9P7j?format=jpg&name=medium" alt="Alt text" width="23%" />
   
 Sincerely,  
-**Kit Baroness | VP Operations**
+**Kit Baroness, DBA**
 
 **Booking**: [kitbaroness.cc](http://kitbaroness.cc)
-**Website**: [AcmeWerx.com](http://AcmeWerx.com)
+**Website**: [DegenVets.com](http://DegenVets.com)
 </div>
