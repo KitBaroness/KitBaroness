@@ -43,6 +43,7 @@ Sincerely,
 | [Voxel](https://x.com/VoxelXnetwork) | ![Project 4 Screenshot](https://your-image-link.com/project4.png) <br> **Description:** Developing innovative tech platforms optimized for GameFi & Metaverse <br> **Tech Stack:** Ethereum. |
 | [LiquidHearts Club]([https://](https://x.com/LiquidHeartsXOX) | ![Project 5 Screenshot](https://your-image-link.com/project5.png) <br> **Description:** The Massively-Multiplayer On-chain Game (MMOG) AI bot. <br> **Tech Stack:** Solana. |
 | [MMOSH](https://x.com/MMOSH_Pit) | ![Project 6 Screenshot](https://your-image-link.com/project6.png) <br> **Description:** The MMOSH is a decentralized, permissionless and composable world available through many different access devices and platforms.. <br> **Tech Stack:** Solana. |
+| [CosmVerse](https://cosmverse.com) | ![Project 6 Screenshot](https://your-image-link.com/project6.png) <br> **Description:** Cross-chain #NFT marketplace on @JunoNetworkAuction, mint & explore the amazing world of nonfungible assets.  [Join the community:](http://discord.gg/b9wgpfzGx4) <br> **Tech Stack:** Cosmos. |
 
 </div>
 
