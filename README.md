@@ -1,7 +1,7 @@
 <header><img src='https://pbs.twimg.com/profile_banners/2588588305/1724321538/1500x500' width="100%"></header>
 
 # 'ello World 👋
-Creator of the FlexNet Stack 🦀
+Creator of the OpenSource Project, the FlexNet Stack 🦀
 
 ## About
 <p>
