@@ -57,15 +57,54 @@ body {
     margin: 10px 0;
     font-size: 1.2rem;
   }
+
+  .project-links {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 15px; /* Space between buttons */
+    margin-top: 20px;
+  }
   
-  .social a {
+  .project-links a.button {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #EA4AAA;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+    font-size: 1.1rem;
+  }
+  
+  .project-links a.button:hover {
+    background-color: #c93b88;
+  }
+  
+  
+  .social a i {
+    font-size: 30px; /* Ensure all icons are the same size */
     margin: 0 10px;
-    font-size: 1.5rem;
     color: #333;
   }
   
-  .social a:hover {
+  .social a i:hover {
     color: #EA4AAA;
+  }
+  
+  .social {
+    text-align: center;
+    padding: 20px 0;
+  }
+  
+  .social img {
+    width: 30px; /* Set the same width for all favicons */
+    height: 30px; /* Ensure a uniform height as well */
+    margin: 0 10px;
+  }
+  
+  .social {
+    text-align: center;
+    padding: 20px 0;
   }
   
   footer {
