@@ -1,0 +1,253 @@
+.donate-container {
+    background-color: #ffffff;
+    padding: 30px;
+    border-radius: 8px;
+    max-width: 400px;
+    margin: 40px auto;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    font-family: Arial, sans-serif;
+}
+
+.donate-container h2 {
+    text-align: center;
+    color: #333;
+    margin-bottom: 25px;
+    font-size: 24px;
+}
+
+.form-group {
+    margin-bottom: 20px;
+}
+
+.form-group label {
+    display: block;
+    margin-bottom: 5px;
+    color: #555;
+    font-weight: 600;
+}
+
+.form-control {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    font-size: 16px;
+    transition: border-color 0.3s;
+}
+
+.form-control:focus {
+    border-color: #007bff;
+    outline: none;
+}
+
+.input-group {
+    display: flex;
+}
+
+.input-group .form-control {
+    flex: 1;
+    border-top-right-radius: 0;
+    border-bottom-right-radius: 0;
+}
+
+.input-group .btn {
+    border-top-left-radius: 0;
+    border-bottom-left-radius: 0;
+}
+
+.btn {
+    display: inline-block;
+    font-weight: 400;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: middle;
+    user-select: none;
+    border: 1px solid transparent;
+    padding: 10px 15px;
+    font-size: 16px;
+    line-height: 1.5;
+    border-radius: 4px;
+    transition: all 0.15s ease-in-out;
+    cursor: pointer;
+}
+
+.btn-primary {
+    color: #fff;
+    background-color: #007bff;
+    border-color: #007bff;
+}
+
+.btn-primary:hover {
+    background-color: #0056b3;
+    border-color: #0056b3;
+}
+
+.btn-secondary {
+    color: #fff;
+    background-color: #6c757d;
+    border-color: #6c757d;
+}
+
+.btn-secondary:hover {
+    background-color: #5a6268;
+    border-color: #545b62;
+}
+
+.btn-block {
+    display: block;
+    width: 100%;
+}
+
+#equivalent-value {
+    background-color: #f8f9fa;
+    color: #495057;
+}
+
+#fallback-options {
+    margin-top: 30px;
+    border-top: 1px solid #ddd;
+    padding-top: 20px;
+}
+
+#fallback-options h3 {
+    font-size: 18px;
+    margin-bottom: 15px;
+    color: #333;
+}
+
+#qr-code {
+    margin-bottom: 20px;
+}
+
+#qr-code img {
+    max-width: 200px;
+    height: auto;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.mb-3 {
+    margin-bottom: 15px;
+}
+
+@media (max-width: 480px) {
+    .donate-container {
+        padding: 20px;
+        margin: 20px auto;
+    }
+
+    .btn {
+        font-size: 14px;
+        padding: 8px 12px;
+    }
+}
+
+#donate-button {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #0a9396;
+    color: white;
+    text-decoration: none;
+    padding: 10px;
+    margin: 10px 0;
+    border-radius: 50px;
+    transition: background-color 0.3s ease, transform 0.2s ease;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+    position: relative;
+    overflow: hidden;
+    width: 50%;
+    max-width: 500px;
+    box-sizing: border-box;
+    border: none;
+    font-size: 14px;
+    line-height: 1.3;
+    cursor: pointer;
+    text-align: center;
+}
+
+#donate-button:hover {
+    background-color: #028090;
+    transform: translateY(-2px);
+}
+
+@media (max-width: 480px) {
+    #donate-button {
+        padding: 8px;
+        font-size: 12px;
+    }
+}
+
+#donate-button img {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    margin-right: 10px;
+    flex-shrink: 0;
+}
+
+#donate-button .button-text {
+    flex-grow: 1;
+    text-align: left;
+    padding-right: 30px; 
+    white-space: normal;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    display: -webkit-box;
+    -webkit-line-clamp: 2; 
+    -webkit-box-orient: vertical;
+}
+
+@media (max-width: 480px) {
+    #donate-button img {
+        width: 30px;
+        height: 30px;
+    }
+}
+
+#donate-button img {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    margin-right: 10px;
+    flex-shrink: 0;
+}
+
+#donate-button .button-text {
+    flex-grow: 1;
+    text-align: left;
+    padding-right: 30px; 
+    white-space: normal;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    display: -webkit-box;
+    -webkit-line-clamp: 2; 
+    -webkit-box-orient: vertical;
+}
+
+@media (max-width: 480px) {
+    #donate-button img {
+        width: 30px;
+        height: 30px;
+    }
+}
+
+#copy-address {
+    background-color: #0a9396;
+    color: white;
+    border: none;
+    padding: 10px 15px;
+    border-radius: 0 4px 4px 0;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+#copy-address:hover {
+    background-color: #028090;
+}
+
+.form-control {
+    border-radius: 50px;
+}

@@ -23,16 +23,11 @@ Sincerely,
 **Kit Baroness, DBA**
 
 **Booking**: [kitbaroness.cc](http://kitbaroness.cc)
-**Website**: [DegenVets.com](http://DegenVets.com)
+**Website**: [baroness.me](http://baroness.me)
 </div>
 
 --------------------------
 <div align="center">
-  
-# THE FOLLOWING AREA IS UNDER CONSTRUCTION 
-  
-![UNDER_CONSTRUCTION](https://media1.giphy.com/media/cfGmVRsJI6wq6noGxP/200w.gif?cid=6c09b95268fpx79tknfvj9ov79xhhbczynz300oi2iiaz4h9&ep=v1_gifs_search&rid=200w.gif&ct=g) ![UNDER_CONSTRUCTION](https://media1.giphy.com/media/cfGmVRsJI6wq6noGxP/200w.gif?cid=6c09b95268fpx79tknfvj9ov79xhhbczynz300oi2iiaz4h9&ep=v1_gifs_search&rid=200w.gif&ct=g) 
-![UNDER_CONSTRUCTION](https://media1.giphy.com/media/cfGmVRsJI6wq6noGxP/200w.gif?cid=6c09b95268fpx79tknfvj9ov79xhhbczynz300oi2iiaz4h9&ep=v1_gifs_search&rid=200w.gif&ct=g) ![UNDER_CONSTRUCTION](https://media1.giphy.com/media/cfGmVRsJI6wq6noGxP/200w.gif?cid=6c09b95268fpx79tknfvj9ov79xhhbczynz300oi2iiaz4h9&ep=v1_gifs_search&rid=200w.gif&ct=g) 
 
 ## 🛠️ Projects
 

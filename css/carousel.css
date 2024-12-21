@@ -1,0 +1,49 @@
+.shop-carousel {
+    width: 100%;
+    max-width: 600px;
+    margin: 20px auto;
+    padding: 15px;
+    background-color: rgba(255, 255, 255, 0.1);
+    border-radius: 20px;
+    box-sizing: border-box;
+    overflow: hidden;
+}
+
+.carousel-container {
+    display: flex;
+    transition: transform 0.5s ease;
+}
+
+.shop-item {
+    flex: 0 0 calc(33.333% - 10px);
+    max-width: calc(33.333% - 10px);
+    margin-right: 10px;
+}
+
+.shop-item img {
+    width: 100%;
+    height: auto;
+    border-radius: 10px;
+    aspect-ratio: 1 / 1;
+    object-fit: cover;
+    display: block; 
+}
+
+/* Ensure any text within shop-item is hidden */
+.shop-item > *:not(img) {
+    display: none !important;
+}
+.shop-text {
+    display: none !important;
+}
+
+.products-count {
+    font-size: 0.9em;
+    color: #666;
+    margin: 0;
+}
+
+.carousel-container::before, .carousel-container::after {
+    content: '';
+    display: none;
+}

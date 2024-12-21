@@ -1,83 +1,229 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta name="description" content="KitBaroness - Developer & Creator">
-  <meta name="author" content="KitBaroness">
-  <title>KitBaroness - Developer & Creator</title>
-  <link rel="stylesheet" href="css/styles.css">
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Kit Baroness, DBA</title>
+    <link rel="stylesheet" href="css/styles.css">
+    <link rel="stylesheet" href="css/carousel.css">
+    <link rel="stylesheet" href="css/sharedots.css">
+    <link rel="stylesheet" href="css/topbuttons.css">
+    <link rel="stylesheet" href="css/shop.css">
+    <script src="js/carousel.js"></script>
+    <script src="js/sharedots.js" defer></script>
+    <script src="js/topbuttons.js" defer></script>
+    <script src="js/shop.js" defer></script>
+    <script src="js/donate.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/qrcodejs/1.0.0/qrcode.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/web3/1.5.2/web3.min.js"></script>
+    <script src="https://unpkg.com/@solana/web3.js@latest/lib/index.iife.min.js"></script>
 </head>
 <body>
+    <div class="top-left">
+        <button class="subscribe-button" aria-label="Subscribe">
+            🔔
+        </button>
+    </div>
+    <div class="top-right">
+        <button class="share-button" aria-label="Share">
+            ⋮
+        </button>
+    </div>
+    <div class="container">
+        <img src="https://ugc.production.linktr.ee/753e4b1a-c2e0-47c1-ba64-0829fc75d160_1000000486.jpeg?io=true&size=avatar-v3_0" alt="Kit Baroness, DBA" class="profile-pic">
+        <h3 style="font-size: 32px;">Kit Baroness, DBA<h3>
+            <h1 style="font-size: 10px;">PO BOX 20</h1>
+            <h1 style="font-size: 10px ;">North Branch, MI 48461</h1>
 
-  <header>
-    <h1>KitBaroness</h1>
-    <p>Developer, Creator, Open-Source Enthusiast</p>
-  </header>
-
-  <div class="content">
-    <!-- Call to action for support -->
-    <section class="cta">
-      <a href="https://github.com/sponsors/KitBaroness" target="_blank">Sponsor Me on GitHub</a>
-    </section>
-
-    <section class="projects">
-      <h2>Projects</h2>
-      <div class="link-buttons">
-        <div>
-        <a href="https://cryptoversus.io" target="_blank">CryptoVersus.io</a>
+        <div class="icons">
+            <a href="https://instagram.com/kitbaroness" target="_blank"><img src="https://img.icons8.com/?size=50&id=32292&format=png" alt="Instagram"></a>
+            <a href="https://github.com/kitbaroness" target="_blank"><img src="https://img.icons8.com/?size=50&id=12598&format=png" alt="GitHub"></a>
+            <a href="https://linkedin.com/in/kitbaroness" target="_blank"><img src="https://img.icons8.com/?size=50&id=447&format=png" alt="LinkedIn"></a>
+            <a href="https://open.spotify.com/show/3HQ0QquWjRz6617QKpXQhs" target="_blank"><img src="https://img.icons8.com/?size=50&id=6707&format=png" alt="Spotify"></a>
+            <a href="https://twitch.tv/kitbaroness" target="_blank"><img src="https://img.icons8.com/?size=50&id=18104&format=png" alt="Twitch"></a>
         </div>
-        <div>
-        <a href="https://degenvets.com" target="_blank">DegenVets.com</a>
-        </div>
-        <div>
-        <a href="https://cyberhol.com" target="_blank">Cyberhol.com</a>
-        </div>
-        <div>
-        <a href="https://devcorp.org" target="_blank">Devcorp.org</a>
-        </div>
-        <div>
-        <a href="https://acmewerx.com" target="_blank">AcmeWerx.com</a>
-        </div>
-        <div>
-        <a href="https://ravensong.com" target="_blank">ravensong.com</a>
-        </div>
-      </div>
-    </section>
 
-    <section class="social">
-      <h2>Connect with Me</h2>
-      <div class="link-buttons">
-        <a href="https://github.com/KitBaroness" target="_blank">
-          <i class="fab fa-github"></i> GitHub</a>
-        <a href="https://twitter.com/KitBaroness" target="_blank">
-          <i class="fab fa-twitter"></i> Twitter</a>
-        <a href="https://linkedin.com/in/KitBaroness" target="_blank">
-          <i class="fab fa-linkedin"></i> LinkedIn</a>
-        <a href="https://instagram.com/KitBaroness" target="_blank">
-          <i class="fab fa-instagram"></i> Instagram</a>
-        <a href="https://baroness.medium.com/" target="_blank">
-          <i class="fab fa-medium"></i> Medium</a>
-        <a href="https://open.spotify.com/show/3HQ0QquWjRz6617QKpXQhs" target="_blank">
-          <i class="fab fa-spotify"></i> Spotify</a>
-        <a href="https://twitch.com/KitBaroness" target="_blank">
-          <i class="fab fa-twitch"></i> Twitch</a>
-      </div>
-    </section>
+        <div class="toggle-container">
+            <button class="toggle-button active" data-view="links">Links</button>
+            <button class="toggle-button" data-view="shop">Shop</button>
+        </div>
+        <h3 style="font-size: 8px;"">Fork the Repository<a href="https://github.com/devcorporg/linktree">@Kitbaroness</a></h3>
 
-    <!-- Blog posts (Medium, Twitter) -->
-    <section class="blog">
-      <h2>Latest Posts</h2>
-      <div id="blog-posts"></div>
-    </section>
-  </div>
+        <div id="links-view">
+            <div class="shop-carousel">
+                <div class="carousel-container">
+                    <div class="shop-item"><a href="https://cyberhol.com"><img src="https://ugc.production.linktr.ee/3acaa7d1-7721-4191-b077-f5a2344fdda3_image.png?io=true&size=square-fit" alt="CyberHOL"></a></div>
+                    <div class="shop-item"><a href="https://cryptoversus.io"><img src="https://ugc.production.linktr.ee/7faf03a2-639f-41ef-8db0-c5fdf79582cb_image.png?io=true&size=square-fit" alt="Cryptoversus"></a></div>
+                    <div class="shop-item"><a href="https://degenvets.com"><img src="https://ugc.production.linktr.ee/2ba82a08-cccb-4584-bb3b-94d8283ab393_image.png?io=true&size=square-fit" alt="DegenVets"></a></div>
+                    <div class="shop-item"><a href="https://ravensong.com"><img src="https://storage.builderall.com//franquias/2/7304564/editor-html/12678196.png?io=true&size=square-fit" alt="DegenVets"></a></div>
+                    <div class="shop-item"><a href="https://acmewerx.com"><img src="https://storage.builderall.com//franquias/2/7304564/editor-html/12539760.svg?io=true&size=square-fit" alt="DegenVets"></a></div>
+                    <div class="shop-item"><a href="https://x.com/devcorp"><img src="https://github.com/user-attachments/assets/bec58476-a3fd-475f-a9c4-b0677d53979a?io=true&size=square-fit" alt="DevCorp"></a></div>
+                </div>
+            </div>
+            <p class="shop-text">I Did Dis</p>
+            <p class="products-count">Projects & Collaborations</p>
 
-  <footer>
-    <p>&copy; 2024 KitBaroness. All Rights Reserved.</p>
-  </footer>
+            <div class="button-container">
+                <a href="http://kitbaroness.cc/" class="button">
+                    <img src="https://booking.builderall.com/storage/avatar/298692000ef0c8eccfc2e9da2a01628a.png" alt="Icon">
+                    <span class="button-text">Kit Baroness Consultation</span>
+                    <span class="share-dots">&#8942;</span>
+                </a>
+                <h3>My Collections</h3>
+            
+                <a href="https://baroness.medium.com/" class="button">
+                    <img src="https://pbs.twimg.com/media/GXLkx3AXoAAL0zQ?format=jpg&name=small" alt="Icon">
+                    <span class="button-text">Kit Baroness – Medium</span>
+                    <span class="share-dots">&#8942;</span>
+                </a>
+                <a href="http://ravensong.com/" class="button">
+                    <img src="https://storage.builderall.com//franquias/2/7304564/editor-html/12678196.png" alt="Icon">
+                    <span class="button-text">Building Builders | Home</span>
+                    <span class="share-dots">&#8942;</span>
+                </a>
+                <a href="http://cryptoversus.io/" class="button">
+                    <img src="https://storage.builderall.com//franquias/2/7304564/editor-html/12603172.svg" alt="Icon">
+                    <span class="button-text">Crypto Versus | Web2 Bundle into Web3</span>
+                    <span class="share-dots">&#8942;</span>
+                </a>
+                <a href="http://acmewerx.com/" class="button">
+                    <img src="https://storage.builderall.com//franquias/2/7304564/editor-html/12539760.svg" alt="Icon">
+                    <span class="button-text">ACMEWERX Services</span>
+                    <span class="share-dots">&#8942;</span>
+                </a>
+                <a href="https://www.github.com/klllj0ylife" class="button">
+                    <img src="https://avatars.githubusercontent.com/u/162865471?v=4" alt="Icon">
+                    <span class="button-text">GitHub Alter Ego</span>
+                    <span class="share-dots">&#8942;</span>
+                </a>
+                <a href="https://app.buidlbox.io/buidler/kitbaroness" class="button">
+                    <img src="https://cdn.buidlbox.io/user/8b4fa407-0d05-487b-b188-8f94f2190b20/avatar/avatar.blob?t=1727319718904" alt="Icon">
+                    <span class="button-text">Join a hackathon. Find a team. Win prizes.</span>
+                    <span class="share-dots">&#8942;</span>
+                </a>
+                <a href="http://degenvets.com/" class="button">
+                    <img src="https://avatars.githubusercontent.com/u/180209438?s=400&u=1b338abb15b69eaa77051408fd0c89efc26964b5&v=4" alt="Icon">
+                    <span class="button-text">Degen Vets powered by DevCorp</span>
+                    <span class="share-dots">&#8942;</span>
+                </a>
 
-  <script src="js/scripts.js"></script>
-  <script src="js/rss.js"></script>
+                <h3>Partners & Collaborations</h3>
+                <a href="https://www.voxelxnetwork.com/" class="button">
+                    <img src="https://www.voxelxnetwork.com/images/voxel-logo.svg" alt="Icon">
+                    <span class="button-text">The best way to predict the future is to build it, <br>
+                        Join the Voxel X Revolution</span>
+                    <span class="share-dots">&#8942;</span>
+                </a>
+                <a href="https://t.me/LiquidHeartsBot?start=5684888954" class="button">
+                    <img src="https://www.mmosh.app/_next/image?url=https%3A%2F%2Fstorage.googleapis.com%2Fhellbenders-public-c095b-assets%2FhellbendersWebAssets%2Flogo.png" alt="Icon">
+                    <span class="button-text">MMOSH, the social protocol for connected communities. Make Money Fun!</span>
+                    <span class="share-dots">&#8942;</span>
+                </a>
+                <a href="https://cyberhol.com/" class="button">
+                    <img src="https://pbs.twimg.com/profile_banners/1822114456660516864/1723288931/600x200" alt="Icon">
+                    <span class="button-text">Patch all your holes</span>
+                    <span class="share-dots">&#8942;</span>
+                </a>
+                <a href="https://zu.ventures/#connect" class="button">
+                    <img src="https://pbs.twimg.com/profile_images/1678518338857705474/zg4Ofedu_400x400.jpg" alt="zouhair el helou">
+                    <span class="button-text">zouhair el helou | zouhair el helou</span>
+                    <span class="share-dots">&#8942;</span>
+                </a>
+
+                <h3>Referral Links</h3>
+                <a href="https://my.hellohelium.com/ref/9QC2AZ5" class="button">
+                    <img src="https://framerusercontent.com/images/i3oJvwkQwnxe3hCpedYuhgTO6B8.png?scale-down-to=512" alt="Icon">
+                    <span class="button-text">A phone plan that rewards you and your community for using it.<br>
+                        Rise above with Helium Mobile's Unlimited Phone Plan.</span>
+                    <span class="share-dots">&#8942;</span>
+                </a>
+                <a href="https://wtfhappenedin1971.com/" class="button">
+                    <img src="https://wtfhappenedin1971.com/wp-content/uploads/2020/06/img_0540-1_arrow.jpg?w=1024" alt="Icon">
+                    <span class="button-text">WTF Happened In 1971?</span>
+                    <span class="share-dots">&#8942;</span>
+                </a>
+            </div>
+        </div>
+
+        <div id="shop-view" style="display: none;">
+            <div class="shop-grid">
+                <div class="shop-item">
+                    <img src="https://ugc.production.linktr.ee/3acaa7d1-7721-4191-b077-f5a2344fdda3_image.png?io=true&size=square-fit" alt="CyberHOL">
+                    <div class="shop-item-content">
+                        <div class="shop-item-title">Penetration Testing Identify vulnerabilities in your systems before...</div>
+                        <div class="shop-item-price">$$$</div>
+                    </div>
+                </div>
+                <div class="shop-item">
+                    <img src="https://ugc.production.linktr.ee/7faf03a2-639f-41ef-8db0-c5fdf79582cb_image.png?io=true&size=square-fit" alt="Cryptoversus">
+                    <div class="shop-item-content">
+                        <div class="shop-item-title">Crypto Versus | Web2 Bundle into Web3</div>
+                        <div class="shop-item-price">$$$</div>
+                    </div>
+                </div>
+                <div class="shop-item">
+                    <img src="https://ugc.production.linktr.ee/2ba82a08-cccb-4584-bb3b-94d8283ab393_image.png?io=true&size=square-fit" alt="DegenVets">
+                    <div class="shop-item-content">
+                        <div class="shop-item-title">Degen Vets | "The Original Degenerates of the World"</div>
+                        <div class="shop-item-price">$$$</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        
+        <div id="donate-form" class="donate-container">
+            <h2>Support this project</h2>
+
+            <div class="form-group">
+              <label for="crypto-select">Select cryptocurrency:</label>
+              <select id="crypto-select" class="form-control">
+                <option value="SOL">Solana (SOL)</option>
+                <option value="USDC-SOL">USDC on Solana</option>
+                <option value="MMOSH-SOL">MMOSH on Solana</option>
+                <option value="ETH">Ethereum (ETH)</option>
+                <option value="USDC-ETH">USDC on Ethereum</option>
+                <option value="MATIC">Polygon (MATIC)</option>
+                <option value="USDC-MATIC">USDC on Polygon</option>
+                <option value="BTC">Bitcoin (BTC)</option>
+              </select>
+            </div>
+            <div class="form-group">
+              <label for="amount-input">Amount:</label>
+              <input type="number" id="amount-input" class="form-control" placeholder="Enter amount" step="0.000001" min="0">
+            </div>
+            <div class="form-group">
+              <label for="equivalent-value">Equivalent value:</label>
+              <input type="text" id="equivalent-value" class="form-control" readonly>
+            </div>
+            <div class="form-group">
+              <label for="display-currency">Display currency:</label>
+              <select id="display-currency" class="form-control">
+                <option value="USD">USD</option>
+                <option value="EUR">EUR</option>
+                <option value="GBP">GBP</option>
+                <option value="JPY">JPY</option>
+              </select>
+            </div>
+            <div class="qr-container"></div>
+                <img src="https://raw.githubusercontent.com/DevCorpOrg/linktree/main/img/qr/btc.png" width="20%" alt="Bitcoin QR Code" class="qr-code" id="bitcoin-qr">
+                <img src="https://raw.githubusercontent.com/DevCorpOrg/linktree/main/img/qr/eth.png" width="20%" alt="Ethereum QR Code" class="qr-code" id="ethereum-qr">
+                <img src="https://raw.githubusercontent.com/DevCorpOrg/linktree/main/img/qr/sol.png" width="20%" alt="Solana QR Code" class="qr-code" id="solana-qr">
+              </div>
+            <button id="donate-button" class="button">Donate with Wallet</button>
+            <div id="fallback-options" style="display: none;">
+              <h3>Alternative donation methods:</h3>
+              <div id="qr-code" class="text-center mb-3"></div>
+              <div class="form-group">
+                <label for="wallet-address">Wallet Address:</label>
+                <div class="input-group">
+                  <input type="text" id="wallet-address" class="form-control" readonly>
+                  <button id="copy-address" class="btn btn-secondary">Copy</button>
+                </div>
+              </div>
+            </div>
+          </div>
+    </div>
+
+    
 </body>
 </html>
