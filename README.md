@@ -23,7 +23,7 @@ In addition, I specialize in guiding entrepreneurs and organizations through the
 <div align="center">
   <img src="https://pbs.twimg.com/media/GVt-WMHXwAA9P7j?format=jpg&name=medium" alt="Kit Baroness, DBA" width="23%" />
   
-  **Creator of the OpenSource Project, FlexNet & Family 🦀**  
+  **Creator of the OpenSource Project, FlexNet 「🦀」**  
   
   Sincerely,  
   **Kit Baroness, DBA**  
