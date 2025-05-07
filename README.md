@@ -1,4 +1,4 @@
-<header><img src='https://pbs.twimg.com/profile_banners/2588588305/1724321538/1500x500' width="100%"></header>
+<header><img src='https://pbs.twimg.com/profile_banners/2588588305/1744604585/1500x500' width="100%"></header>
 
 ## 💼 Professional Services & Training
 
@@ -19,7 +19,6 @@ In addition, I specialize in guiding entrepreneurs and organizations through the
 - 🏆 **Milestone Achievement:** Seamlessly integrating FlexNet GX to enhance efficiency and interoperability.
 
 ---
-
 <div align="center">
   <img src="https://pbs.twimg.com/media/GVt-WMHXwAA9P7j?format=jpg&name=medium" alt="Kit Baroness, DBA" width="23%" />
   
