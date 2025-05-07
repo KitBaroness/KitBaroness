@@ -1,4 +1,5 @@
-<header><img src='https://pbs.twimg.com/profile_banners/2588588305/1744604585/1500x500' width="100%"></header>
+![image](https://github.com/user-attachments/assets/649af183-a064-420f-ab10-b23293a49ab4)
+
   <div align="center">
 <!-- Most Used Languages Chart -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KitBaroness&layout=compact&theme=dark&border_radius=10" alt="Top Languages" />
