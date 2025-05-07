@@ -3,6 +3,7 @@
 <!-- Most Used Languages Chart -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KitBaroness&layout=compact&theme=dark&border_radius=10" alt="Top Languages" />
 </div>
+
 ## 💼 Professional Services & Training
 
 I’m available for personalized consulting and training engagements focused on modern web development and workflow optimization. Whether you're looking to enhance your HTML5 coding for websites or master the GitHub CLI for efficient project management, I offer tailored sessions to empower teams and individuals in the digital space.
