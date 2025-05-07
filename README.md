@@ -1,5 +1,8 @@
 <header><img src='https://pbs.twimg.com/profile_banners/2588588305/1744604585/1500x500' width="100%"></header>
-
+  <div align="center">
+<!-- Most Used Languages Chart -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KitBaroness&layout=compact&theme=dark&border_radius=10" alt="Top Languages" />
+</div>
 ## 💼 Professional Services & Training
 
 I’m available for personalized consulting and training engagements focused on modern web development and workflow optimization. Whether you're looking to enhance your HTML5 coding for websites or master the GitHub CLI for efficient project management, I offer tailored sessions to empower teams and individuals in the digital space.
@@ -23,7 +26,6 @@ In addition, I specialize in guiding entrepreneurs and organizations through the
   <img src="https://pbs.twimg.com/media/GVt-WMHXwAA9P7j?format=jpg&name=medium" alt="Kit Baroness, DBA" width="23%" />
   
   **Creator of the OpenSource Project, FlexNet 「🦀」**  
-  
   Sincerely,  
   **Kit Baroness, DBA**  
   
