@@ -1,9 +1,10 @@
 ![image](https://github.com/user-attachments/assets/649af183-a064-420f-ab10-b23293a49ab4)
 
-  <div align="center">
-<!-- Most Used Languages Chart -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KitBaroness&layout=compact&theme=dark&border_radius=10" alt="Top Languages" />
+<div align="center">
+<!-- Top Languages Card -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KitBaroness&layout=compact&bg_color=0a0a0a&title_color=c0c0c0&text_color=b0aeb3&icon_color=a01cf0&border_radius=10" alt="KitBaroness Top Languages" />
 </div>
+
 
 ## 💼 Professional Services & Training
 
@@ -152,4 +153,10 @@ Having a strong grasp of fundamentals not only improves accuracy but also reveal
 
 ---
 
+
 💡 **Always Innovate, Always Build, Always Have Fun!** 🚀
+
+  <div align="center">
+<!-- GitHub Stats Card -->
+<img src="https://github-readme-stats.vercel.app/api?username=KitBaroness&show_icons=true&bg_color=0a0a0a&title_color=c0c0c0&text_color=b0aeb3&icon_color=a01cf0&border_radius=10" alt="KitBaroness GitHub Stats" />
+  </div>
