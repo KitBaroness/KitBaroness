@@ -42,7 +42,6 @@ _For bookings, visit **[kitbaroness.cc](https://kitbaroness.cc)**._
 - **GitHub:** [KitBaroness](https://github.com/kitbaroness)  
 
 > “Master the fundamentals before tackling the complex—core principles unlock creative, scalable solutions.”  
-> Stay curious, embrace complexity, and have fun. 🚀  
 > *Fostering digital transformation and ethical implementation across industries.*
 ---
 
