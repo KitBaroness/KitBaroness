@@ -13,6 +13,10 @@ Technical Program Manager · Cybersecurity · Data Architecture · Government & 
 <img src="https://komarev.com/ghpvc/?username=KitBaroness&label=profile%20views&color=a01cf0&style=flat-square" alt="Profile views" />
 <img src="https://img.shields.io/github/followers/KitBaroness?label=followers&style=flat-square&color=0a0a0a&logo=github" alt="GitHub followers" />
 
+<a href="https://github.com/KitBaroness">
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=KitBaroness&show_icons=true&include_all_commits=true&bg_color=0a0a0a&title_color=c0c0c0&text_color=b0aeb3&icon_color=a01cf0&border_color=2a2a2a&ring_color=a01cf0&border_radius=10" alt="KitBaroness GitHub Stats" />
+</a>
+
 </div>
 
 ---
@@ -171,9 +175,6 @@ North America, USA — available for remote work.
 
 <div align="center">
 
-<a href="https://github.com/KitBaroness">
-  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=KitBaroness&show_icons=true&include_all_commits=true&bg_color=0a0a0a&title_color=c0c0c0&text_color=b0aeb3&icon_color=a01cf0&border_color=2a2a2a&ring_color=a01cf0&border_radius=10" alt="KitBaroness GitHub Stats" />
-</a>
 <a href="https://git.io/streak-stats">
   <img height="165" src="https://streak-stats.demolab.com?user=KitBaroness&background=0a0a0a&stroke=2a2a2a&ring=a01cf0&fire=a01cf0&currStreakNum=c0c0c0&sideNums=c0c0c0&currStreakLabel=b0aeb3&sideLabels=b0aeb3&dates=b0aeb3&hide_border=false" alt="GitHub Streak" />
 </a>
