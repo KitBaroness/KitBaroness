@@ -1,15 +1,17 @@
 <img width="1500" height="500" alt="image" src="https://github.com/user-attachments/assets/1ccf2828-27e4-41d0-b03b-2801f9635ab2" />
 
-
 <div align="center">
 
-**Built for boardrooms. Wired for terminals.**
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3200&pause=900&color=C0C0C0&center=true&vCenter=true&multiline=true&width=680&height=90&lines=Built+for+boardrooms.;Wired+for+terminals." alt="Built for boardrooms. Wired for terminals." />
 
 Technical Program Manager · Cybersecurity · Data Architecture · Government & Decentralized Systems
 
 [kitbaroness.com](https://kitbaroness.com/baroness/home) · [Book Consultation](https://kitbaroness.com/baroness/home) · [kit@acmewerx.com](mailto:kit@acmewerx.com)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KitBaroness&layout=compact&bg_color=0a0a0a&title_color=c0c0c0&text_color=b0aeb3&icon_color=a01cf0&border_radius=10" alt="KitBaroness Top Languages" />
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=KitBaroness&label=profile%20views&color=a01cf0&style=flat-square" alt="Profile views" />
+<img src="https://img.shields.io/github/followers/KitBaroness?label=followers&style=flat-square&color=0a0a0a&logo=github" alt="GitHub followers" />
 
 </div>
 
@@ -163,6 +165,34 @@ Also aligned with: KOVE · DISA · RavenSong · Building Builders University · 
 
 North America, USA — available for remote work.
 
+---
+
+## GitHub Telemetry
+
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=KitBaroness&show_icons=true&bg_color=0a0a0a&title_color=c0c0c0&text_color=b0aeb3&icon_color=a01cf0&border_radius=10" alt="KitBaroness GitHub Stats" />
+
+<a href="https://github.com/KitBaroness">
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=KitBaroness&show_icons=true&include_all_commits=true&bg_color=0a0a0a&title_color=c0c0c0&text_color=b0aeb3&icon_color=a01cf0&border_color=2a2a2a&ring_color=a01cf0&border_radius=10" alt="KitBaroness GitHub Stats" />
+</a>
+<a href="https://git.io/streak-stats">
+  <img height="165" src="https://streak-stats.demolab.com?user=KitBaroness&background=0a0a0a&stroke=2a2a2a&ring=a01cf0&fire=a01cf0&currStreakNum=c0c0c0&sideNums=c0c0c0&currStreakLabel=b0aeb3&sideLabels=b0aeb3&dates=b0aeb3&hide_border=false" alt="GitHub Streak" />
+</a>
+
+<br/>
+
+<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=KitBaroness&layout=compact&langs_count=8&bg_color=0a0a0a&title_color=c0c0c0&text_color=b0aeb3&icon_color=a01cf0&border_color=2a2a2a&border_radius=10" alt="Top Languages" />
+
+</div>
+
+### Stack Snapshot
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=linux,bash,aws,cloudflare,docker,git,github,githubactions,js,ts,react,rust,nodejs,postgres,vscode&theme=dark" alt="Tech stack icons" />
+</div>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/CMMC-aligned-0a0a0a?style=for-the-badge" alt="CMMC" />
+  <img src="https://img.shields.io/badge/NIST-aligned-0a0a0a?style=for-the-badge" alt="NIST" />
+  <img src="https://img.shields.io/badge/ISO%2027001-aware-0a0a0a?style=for-the-badge" alt="ISO 27001" />
+  <img src="https://img.shields.io/badge/FlexNet-Stack-a01cf0?style=for-the-badge" alt="FlexNet Stack" />
 </div>
