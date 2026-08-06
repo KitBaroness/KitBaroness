@@ -12,7 +12,7 @@ Technical Program Manager · Cybersecurity · Data Architecture · Government & 
 
 <img src="https://komarev.com/ghpvc/?username=KitBaroness&label=profile%20views&color=a01cf0&style=flat-square" alt="Profile views" />
 <img src="https://img.shields.io/github/followers/KitBaroness?label=followers&style=flat-square&color=0a0a0a&logo=github" alt="GitHub followers" />
-
+<br/>
 <a href="https://github.com/KitBaroness">
   <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=KitBaroness&show_icons=true&include_all_commits=true&bg_color=0a0a0a&title_color=c0c0c0&text_color=b0aeb3&icon_color=a01cf0&border_color=2a2a2a&ring_color=a01cf0&border_radius=10" alt="KitBaroness GitHub Stats" />
 </a>
